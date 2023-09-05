@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
